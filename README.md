@@ -1,2 +1,2 @@
-# Alpha-Project-HUJI-WaveRunner6100A
-Code used to get information out of a WaveRunner 6100A for detecting muons in 2 channels on the same scintillator and analize them in order to get the muon hit location and calculate the muon path using 2 detectors.
+# Alpha-Project-HUJI
+As a part of the Hebrew University of Jerusalem Alpha program (where high school students perform research in the university), my group works on using muography and drones to create a drone able to "x-ray" buildings (not realy x-ray), sorry in advance if our explenation isnt perfect, we are high school students after all...
